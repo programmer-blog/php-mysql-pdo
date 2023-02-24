@@ -12,7 +12,7 @@ In this tutorial you will learn basics of:
   6. Select data with Where, order by and limit clause
   
   
-  Please view the detailed video tutorial at:
+  Please view the detailed video tutorial at: https://www.youtube.com/watch?v=ifthg0g_S38
   
   
   Read a detailed articel at: https://programmerblog.net/php-pdo-ajax-tutorial-example/
